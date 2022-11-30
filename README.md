@@ -8,7 +8,10 @@ modelo de dinámica de plásmidos en ambientes estocásticos
 - otros: { Entropy / JointEntropy / MutualInf / GenHurst }
 
 generar ambientes ctes / periódicos {sine/saw/square/envgauss} en periodics_to_csv.py
+
 generar ambientes colored noise / continuous stochastic / diffusion en Conjunto_Noise_Cont_Diff.py
+
+generar ambientes automatas celulares en continousCA.py
 
 * crear folder /figures
 * crear folder /series_temporales
