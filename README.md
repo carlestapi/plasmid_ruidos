@@ -1,6 +1,7 @@
-# plasmid_ruidos: (daily_Bft/daily_Bpt/Pfs/BTs/E)
+# plasmid_ruidos: 
 
-modelo de dinámica de plásmidos en ambientes estocásticos
+modelo de dinámica de plásmidos en ambientes estocásticos[(daily_Bft/daily_Bpt/Pfs/BTs/E)]
+
 - cargar series temporales: { periódicas / continuas / ruidos / difusión }
 - runNoise o bien runCA (para autómatas cellulares en .txt)
 - cálculo stats: { AutoCorr / CrossCorr / CrossCov / Pearson }
